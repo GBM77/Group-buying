@@ -1,0 +1,6 @@
+{
+  "name": "團購神器 (Group Buy Helper)",
+  "description": "一個簡單實用的團購整理工具，支援手機版切換、手機相機直接拍照上傳、麥克風語音輸入及 AI 智能分析團購對話與菜單。",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
